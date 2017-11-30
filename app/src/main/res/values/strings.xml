@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">Personal Assistant App</string>
+
+    <string name="start_name">Personal Assistant App</string>
+    <string name="version_name">Version 1.0.0</string>
+    <string name="kezna_app">KeZna App @ 2017</string>
+    <string name="slogan">A better way to efficient your memory</string>
+    <string name="Home">Home</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="assistant">Get to know your assistant</string>
+    <string name="title_activity_assistant">Assistant</string>
+    <string name="type_chat">Ask a question</string>
+    <string name="title_activity_alarm">Alarm</string>
+
+    <string-array name="questionnaire">
+        <!-- 0 -->
+        <item>what is your name?</item><!-- 0 -->
+        <item>what\'s your name?</item><!-- 1 -->
+        <!-- 1 -->
+        <item>how old are you?</item><!-- 2 -->
+        <item>how old are you now?</item><!-- 3 -->
+        <!-- 2 -->
+        <item>where do you see yourself in 5 years?</item><!-- 4 -->
+        <item>where do you see yourself in five years?</item><!-- 5 -->
+        <!-- 3 -->
+        <item>do you have work experience?</item><!-- 6 -->
+        <item>do you have any work experience?</item><!-- 7 -->
+        <!-- 4 -->
+        <item>Tell me a bit about yourself?</item><!-- 8 -->
+        <item>Tell me about yourself?</item><!-- 9 -->
+        <item>Tell me more about yourself?</item><!-- 10 -->
+        <!-- 5 -->
+        <item>What are you?</item><!-- 11 -->
+        <!-- 6 -->
+        <item>How are you?</item><!-- 12 -->
+        <!-- 7 -->
+        <item>What are you wearing?</item><!-- 13 -->
+        <!-- 8 -->
+        <item>Will you marry me?</item><!-- 14 -->
+        <!-- 9 -->
+        <item>"What is your Mom’s name?"</item><!-- 15 -->
+        <item>"What's your Mom’s name?"</item><!-- 16 -->
+        <!-- 10 -->
+        <item>Do you have any pets?</item><!-- 17 -->
+        <item>Do you have a pets?</item><!-- 18 -->
+        <!-- 11 -->
+        <item>Are you human?</item><!-- 19 -->
+        <!-- 12 -->
+        <item>Are you intelligent?</item><!-- 20 -->
+        <item>Are you smart?</item><!-- 21 -->
+        <!-- 13 -->
+        <item>What\’s your problem?</item><!-- 22 -->
+        <item>What is your problem?</item><!-- 23 -->
+        <!-- 14 -->
+        <item>When is your birthday?</item><!-- 24 -->
+        <!-- 15 -->
+        <item>Who made you?</item><!-- 25 -->
+        <item>Who invented you?</item><!-- 26 -->
+        <item>Who created you?</item><!-- 27 -->
+        <!-- 16 -->
+        <item>Do you date?</item><!-- 28 -->
+        <item>Do you have a partner?</item><!-- 29 -->
+        <item>Do you have a boyfriend?</item><!-- 30 -->
+        <item>Do you have boyfriend?</item><!-- 31 -->
+        <!-- 17 -->
+        <item>How\’s it going?</item><!-- 32 -->
+        <item>How is it going?</item><!-- 33 -->
+        <!-- 18 -->
+        <item>Are you male or female?</item><!-- 34 -->
+        <item>Are you a female?</item><!-- 35 -->
+        <item>Are you male?</item><!-- 36 -->
+        <!-- 19 -->
+        <item>Who is your daddy?</item><!-- 37 -->
+        <!-- 20 -->
+        <item>How much do you cost?</item><!-- 38 -->
+        <!-- 21 -->
+        <item>How much do you weight?</item><!-- 39 -->
+        <!-- 22 -->
+        <item>Are you a virgin?</item><!-- 40 -->
+        <item>Are you still a virgin?</item><!-- 41 -->
+        <!-- 23 -->
+        <item>Do you sleep?</item><!-- 42 -->
+        <!-- 24 -->
+        <item>Yes</item><!-- 43 -->
+        <item>of course</item><!-- 44 -->
+        <item>I think so</item><!-- 45 -->
+        <item>maybe</item><!-- 46 -->
+        <item>what do you think</item><!-- 47 -->
+        <!-- Tell me a joke -->
+        <!-- 25 -->
+        <item>if i don\'t?</item><!-- 48 -->
+        <item>what if i don\'t?</item><!-- 49 -->
+        <item>what if i don\'t do that?</item><!-- 50 -->
+        <item>what if i don\'t do that</item><!-- 51 -->
+        <item>put it yourself</item><!-- 52 -->
+        <item>i won\'t</item><!-- 53 -->
+        <item>i won\'t include it</item><!-- 54 -->
+        <item>i won\'t do that</item><!-- 55 -->
+        <!-- 26 -->
+        <item>which question?</item><!-- 56 -->
+        <item>which question</item><!-- 57 -->
+        <item>what question?</item><!-- 58 -->
+        <item>which question is that?</item><!-- 59 -->
+        <item>what question is that?</item><!-- 60 -->
+        <!-- 27 -->
+        <item>i don\'t remember it</item><!-- 61 -->
+        <item>i don\'t remember</item><!-- 62 -->
+        <item>i don\'t know what your talking about</item><!-- 63 -->
+        <item>what are you talking about?</item><!-- 64 -->
+        <!-- 28 -->
+        <item>until when?</item><!-- 65 -->
+
+    </string-array>
+
+    <string-array name="answers">
+        <item>My name is Personal Assistant</item><!-- 0 -->
+        <item>I\'m not sure, but many computer operating systems have included speech synthesizers since the early 1990s.</item><!-- 1 -->
+        <item>I see myself using Siri and working online instead of offline</item><!-- 2 -->
+        <item>Yes I do, since 1990?</item><!-- 3 -->
+        <item>Tell me a bit about yourself</item><!-- 4 -->
+        <item>I\'m a programmer?</item><!-- 5 -->
+        <item>How are you?</item><!-- 6 -->
+        <item>What are you wearing?</item><!-- 7 -->
+        <item>Will you marry me?</item><!-- 8 -->
+        <item>What is your Mom\’s name?</item><!-- 9 -->
+        <item>Do you have any pets?</item><!-- 10 -->
+        <item>Are you human?</item><!-- 11 -->
+        <item>Are you intelligent?</item><!-- 12 -->
+        <item>What\’s your problem?</item><!-- 13 -->
+        <item>When is your birthday?</item><!-- 14 -->
+        <item>Who made you?</item><!-- 15 -->
+        <item>Do you date?</item><!-- 16 -->
+        <item>How\’s it going?</item><!-- 17 -->
+        <item>Are you male or female?</item><!-- 18 -->
+        <item>Who is your daddy?</item><!-- 19 -->
+        <item>How much do you cost?</item><!-- 20 -->
+        <item>How much do you weight?</item><!-- 21 -->
+        <item>Are you a virgin?</item><!-- 22 -->
+        <item>Do you sleep?</item><!-- 23 -->
+        <item>Then next time, please include a question mark at the end of your sentence, when you ask me question.</item><!-- 24 -->
+        <item>then I will keep repeating the same question</item><!-- 25 -->
+        <item>the one you just typed</item><!-- 26 -->
+        <item>okay you can ask a question now</item><!-- 27 -->
+        <item>until you ask me a question includes a question mark at the end</item><!-- 28 -->
+        <item>Tell me a joke</item>
+    </string-array>
+
+    <string-array name="command">
+        <!-- 0 -->
+        <item>Open Whatsapp</item><!-- 0 -->
+        <!-- 1 -->
+        <item>Open Gallery</item><!-- 1 -->
+        <!-- 2 -->
+        <item>Open Settings</item><!-- 2 -->
+        <item>Open my phone Settings</item><!-- 3 -->
+        <!-- 3 -->
+        <item>Open Device Information</item><!-- 4 -->
+        <!-- 4 -->
+        <item>Enable Location</item><!-- 5 -->
+        <item>Open Location</item><!-- 6 -->
+        <!-- 5 -->
+        <item>Open Ringtone</item><!-- 7 -->
+        <!-- 6 -->
+        <item>Open Wifi</item><!-- 8 -->
+        <!-- 7 -->
+        <item>search</item><!-- 9 -->
+        <item>Search</item><!-- 10 -->
+        <!-- 8 -->
+        <item>Send Email</item><!-- 11 -->
+        <item>Send SMS</item><!-- 12 -->
+        <!-- 9 -->
+        <item>Open ShareIt</item><!-- 13 -->
+        <item>Open Share it</item><!-- 14 -->
+        <!-- 10 -->
+        <item>Open contact</item><!-- 15 -->
+        <item>Open contacts</item><!-- 16 -->
+        <!-- 11 -->
+        <item>Open youtube</item><!-- 17 -->
+        <item>Open you tube</item><!-- 18 -->
+        <!-- 12 -->
+        <item>Open browser</item><!-- 19 -->
+        <item>Open website</item><!-- 20 -->
+        <!-- 13 -->
+        <item>Open music player</item><!-- 21 -->
+        <item>Open media player</item><!-- 22 -->
+        <item>Open music</item><!-- 23 -->
+        <!-- 14 -->
+        <item>Open google play</item><!-- 24 -->
+        <item>Open google play store</item><!-- 25 -->
+        <!-- 15 -->
+        <item>Open file manager</item><!-- 26 -->
+        <item>Open file</item><!-- 27 -->
+        <!-- 16 -->
+        <item>Open google map</item><!-- 28 -->
+        <item>Open map</item><!-- 29 -->
+        <!-- 17 -->
+        <item>Open youtube</item><!-- 30 -->
+        <item>Open you tube</item><!-- 31 -->
+    </string-array>
+
+    <string-array name="obey">
+
+        <item>what\'s today\'s date?</item><!-- 0 -->
+        <item>what is today\'s date?</item><!-- 1 -->
+        <item>What time is it?</item><!-- 2 -->
+        <item>"I don't like that name"</item><!-- 3 -->
+        <item>"I don't like your name"</item><!-- 4 -->
+
+    </string-array>
+    <string name="title_activity_command">Command</string>
+
+</resources>
